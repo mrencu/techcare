@@ -1,0 +1,148 @@
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\techcare.exe.config
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\techcare.exe
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\techcare.pdb
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\techcare.xml
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\MySql.Data.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\Google.Protobuf.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\Zstandard.Net.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\Renci.SshNet.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\System.Buffers.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\System.Memory.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\MySql.Data.xml
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.vbprojAssemblyReference.cache
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmInitialSetup.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmLogsConsent.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmAppConfig.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmLogin.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmMainWindow.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmAddRepairRemark.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmCreateNewRepair.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmRepairMgmt.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.Resources.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmUpdateQuote.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmUpdateRepairStatus.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmSplash.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmCreateUser.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmEditEmpDetails.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmResetPassword.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.frmUserMgmt.resources
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.vbproj.GenerateResource.cache
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.vbproj.CoreCompileInputs.cache
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.vbproj.CopyComplete
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.exe
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.xml
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\obj\Debug\techcare.pdb
+C:\Users\calvi\OneDrive - Glow Scotland\Pupil's Balwearie HS\gw10earnshawcalvin\S6\Advanced Higher Computing\!! Official Project\03 IMPLEMENTATION\techcare\techcare\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\bin\Debug\techcare.exe.config
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.exe
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.xml
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.pdb
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\bin\Debug\techcare.exe
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\bin\Debug\techcare.pdb
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\bin\Debug\techcare.xml
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\bin\Debug\System.Memory.dll
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.vbprojResolveAssemblyReference.cache
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmInitialSetup.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmLogsConsent.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmAppConfig.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmLogin.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmMainWindow.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmAddRepairRemark.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmCreateNewRepair.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmRepairMgmt.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.Resources.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmUpdateQuote.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmUpdateRepairStatus.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmSplash.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmCreateUser.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmEditEmpDetails.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmResetPassword.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.frmUserMgmt.resources
+C:\Users\usuar_vf967ai\Music\Techcare-main\techcare\obj\Debug\techcare.vbproj.GenerateResource.Cache
+C:\Users\meore\Desktop\techcare\techcare\bin\Debug\techcare.exe.config
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.exe
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.xml
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.pdb
+C:\Users\meore\Desktop\techcare\techcare\bin\Debug\techcare.exe
+C:\Users\meore\Desktop\techcare\techcare\bin\Debug\techcare.pdb
+C:\Users\meore\Desktop\techcare\techcare\bin\Debug\techcare.xml
+C:\Users\meore\Desktop\techcare\techcare\bin\Debug\System.Memory.dll
+C:\Users\meore\Desktop\techcare\techcare\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.vbprojResolveAssemblyReference.cache
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmInitialSetup.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmLogsConsent.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmAppConfig.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmLogin.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmMainWindow.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmAddRepairRemark.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmCreateNewRepair.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmRepairMgmt.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.Resources.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmUpdateQuote.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmUpdateRepairStatus.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmSplash.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmCreateUser.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmEditEmpDetails.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmResetPassword.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.frmUserMgmt.resources
+C:\Users\meore\Desktop\techcare\techcare\obj\Debug\techcare.vbproj.GenerateResource.Cache
+D:\techcare\techcare\bin\Debug\techcare.exe.config
+D:\techcare\techcare\obj\Debug\techcare.exe
+D:\techcare\techcare\obj\Debug\techcare.xml
+D:\techcare\techcare\obj\Debug\techcare.pdb
+D:\techcare\techcare\obj\Debug\techcare.vbprojResolveAssemblyReference.cache
+D:\techcare\techcare\obj\Debug\techcare.frmInitialSetup.resources
+D:\techcare\techcare\obj\Debug\techcare.frmLogsConsent.resources
+D:\techcare\techcare\obj\Debug\techcare.frmAppConfig.resources
+D:\techcare\techcare\obj\Debug\techcare.frmLogin.resources
+D:\techcare\techcare\obj\Debug\techcare.frmMainWindow.resources
+D:\techcare\techcare\obj\Debug\techcare.frmAddRepairRemark.resources
+D:\techcare\techcare\obj\Debug\techcare.frmCreateNewRepair.resources
+D:\techcare\techcare\obj\Debug\techcare.frmRepairMgmt.resources
+D:\techcare\techcare\obj\Debug\techcare.Resources.resources
+D:\techcare\techcare\obj\Debug\techcare.frmUpdateQuote.resources
+D:\techcare\techcare\obj\Debug\techcare.frmUpdateRepairStatus.resources
+D:\techcare\techcare\obj\Debug\techcare.frmSplash.resources
+D:\techcare\techcare\obj\Debug\techcare.frmCreateUser.resources
+D:\techcare\techcare\obj\Debug\techcare.frmEditEmpDetails.resources
+D:\techcare\techcare\obj\Debug\techcare.frmResetPassword.resources
+D:\techcare\techcare\obj\Debug\techcare.frmUserMgmt.resources
+D:\techcare\techcare\obj\Debug\techcare.vbproj.GenerateResource.Cache
+G:\techcare\techcare\obj\Debug\techcare.vbprojResolveAssemblyReference.cache
+G:\techcare\techcare\obj\Debug\techcare.frmInitialSetup.resources
+G:\techcare\techcare\obj\Debug\techcare.frmLogsConsent.resources
+G:\techcare\techcare\obj\Debug\techcare.frmAppConfig.resources
+G:\techcare\techcare\obj\Debug\techcare.frmLogin.resources
+G:\techcare\techcare\obj\Debug\techcare.frmMainWindow.resources
+G:\techcare\techcare\obj\Debug\techcare.frmAddRepairRemark.resources
+G:\techcare\techcare\obj\Debug\techcare.frmCreateNewRepair.resources
+G:\techcare\techcare\obj\Debug\techcare.frmRepairMgmt.resources
+G:\techcare\techcare\obj\Debug\techcare.Resources.resources
+G:\techcare\techcare\obj\Debug\techcare.frmUpdateQuote.resources
+G:\techcare\techcare\obj\Debug\techcare.frmUpdateRepairStatus.resources
+G:\techcare\techcare\obj\Debug\techcare.frmSplash.resources
+G:\techcare\techcare\obj\Debug\techcare.frmCreateUser.resources
+G:\techcare\techcare\obj\Debug\techcare.frmEditEmpDetails.resources
+G:\techcare\techcare\obj\Debug\techcare.frmResetPassword.resources
+G:\techcare\techcare\obj\Debug\techcare.frmUserMgmt.resources
+G:\techcare\techcare\obj\Debug\techcare.vbproj.GenerateResource.Cache
+G:\techcare\techcare\bin\Debug\techcare.exe.config
+G:\techcare\techcare\bin\Debug\techcare.exe.manifest
+G:\techcare\techcare\bin\Debug\techcare.application
+G:\techcare\techcare\bin\Debug\techcare.exe
+G:\techcare\techcare\bin\Debug\techcare.pdb
+G:\techcare\techcare\bin\Debug\techcare.xml
+G:\techcare\techcare\bin\Debug\System.Memory.dll
+G:\techcare\techcare\bin\Debug\System.Numerics.Vectors.dll
+G:\techcare\techcare\obj\Debug\techcare.exe.manifest
+G:\techcare\techcare\obj\Debug\techcare.application
+G:\techcare\techcare\obj\Debug\techcare.exe
+G:\techcare\techcare\obj\Debug\techcare.xml
+G:\techcare\techcare\obj\Debug\techcare.pdb
