@@ -660,7 +660,7 @@ Partial Class frmInitialSetup
         Me.Label25.Name = "Label25"
         Me.Label25.Size = New System.Drawing.Size(596, 54)
         Me.Label25.TabIndex = 2
-        Me.Label25.Text = "Los detalles de tu empresa se mostraran en la ventana principal de techcare, los " & _
+        Me.Label25.Text = "Los detalles de tu empresa se mostraran en la ventana principal de Techcare, los " & _
     "terminos y condiciones se mostraran cuando agregues nuevas reparaciones."
         Me.Label25.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
