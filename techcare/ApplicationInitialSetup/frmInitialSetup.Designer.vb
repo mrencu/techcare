@@ -120,7 +120,7 @@ Partial Class frmInitialSetup
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(596, 28)
         Me.Label10.TabIndex = 1
-        Me.Label10.Text = "Restauracion completada!"
+        Me.Label10.Text = "Restauración completada!"
         Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.step4b.Controls.Add(Me.btnStep4BPrevious)
         Me.step4b.Controls.Add(Me.GroupBox2)
@@ -180,7 +180,7 @@ Partial Class frmInitialSetup
         Me.GroupBox2.Size = New System.Drawing.Size(595, 153)
         Me.GroupBox2.TabIndex = 12
         Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Informacion personal"
+        Me.GroupBox2.Text = "Información personal"
         Me.Label15.AutoSize = True
         Me.Label15.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label15.Location = New System.Drawing.Point(7, 26)
@@ -293,7 +293,7 @@ Partial Class frmInitialSetup
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(596, 28)
         Me.Label14.TabIndex = 1
-        Me.Label14.Text = "Como te gustaria configurar techcare?"
+        Me.Label14.Text = "¿Cómo te gustaría configurar Techcare?"
         Me.Label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label13
@@ -303,7 +303,7 @@ Partial Class frmInitialSetup
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(596, 46)
         Me.Label13.TabIndex = 2
-        Me.Label13.Text = "Elige una opcion:"
+        Me.Label13.Text = "Elige una opción:"
         Me.Label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'btnStep3Previous
@@ -328,7 +328,7 @@ Partial Class frmInitialSetup
         Me.btnStep3RestoreFromBackup.Size = New System.Drawing.Size(595, 58)
         Me.btnStep3RestoreFromBackup.TabIndex = 3
         Me.btnStep3RestoreFromBackup.TabStop = False
-        Me.btnStep3RestoreFromBackup.Text = "Restaurar techcare desde un backup" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "(requires XAMPP server)"
+        Me.btnStep3RestoreFromBackup.Text = "Restaurar Techcare desde un backup" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "(requires XAMPP server)"
         Me.btnStep3RestoreFromBackup.UseVisualStyleBackColor = False
         '
         'btnStep3StartFromScratch
@@ -340,7 +340,7 @@ Partial Class frmInitialSetup
         Me.btnStep3StartFromScratch.Name = "btnStep3StartFromScratch"
         Me.btnStep3StartFromScratch.Size = New System.Drawing.Size(595, 58)
         Me.btnStep3StartFromScratch.TabIndex = 1
-        Me.btnStep3StartFromScratch.Text = "Iniciar techcare desde coso"
+        Me.btnStep3StartFromScratch.Text = "Iniciar Techcare desde cero"
         Me.btnStep3StartFromScratch.UseVisualStyleBackColor = False
         '
         'step3
@@ -385,7 +385,7 @@ Partial Class frmInitialSetup
         Me.Label27.Name = "Label27"
         Me.Label27.Size = New System.Drawing.Size(596, 28)
         Me.Label27.TabIndex = 1
-        Me.Label27.Text = "Configuracion completa!"
+        Me.Label27.Text = "¡Configuración completa!"
         Me.Label27.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label24
@@ -443,7 +443,7 @@ Partial Class frmInitialSetup
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(596, 28)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Bienvenido a Techcare!"
+        Me.Label1.Text = "¡Bienvenido a Techcare!"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label2
@@ -454,7 +454,7 @@ Partial Class frmInitialSetup
         Me.Label2.Size = New System.Drawing.Size(596, 191)
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "Este asistente te ayudará a configurar Techcare." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Asegurate de que este corrien" & _
-    "do tu servidor XAMPP / MySQL antes de seguir con la configuracion." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Para conti" & _
+    "do tu servidor XAMPP / MySQL antes de seguir con la configuración." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Para conti" & _
     "nuar, presiona Siguiente."
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -500,7 +500,7 @@ Partial Class frmInitialSetup
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(596, 28)
         Me.Label4.TabIndex = 1
-        Me.Label4.Text = "Configuracion DB"
+        Me.Label4.Text = "Configuración de base de datos"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label3
@@ -510,7 +510,7 @@ Partial Class frmInitialSetup
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(596, 46)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Ingresa la informacion requerida para conectarnos a tu servidor MySQL"
+        Me.Label3.Text = "Ingresa la información requerida para conectarnos a tu servidor MySQL"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'btnStep2Next
@@ -551,7 +551,7 @@ Partial Class frmInitialSetup
         Me.GroupBox1.Size = New System.Drawing.Size(595, 144)
         Me.GroupBox1.TabIndex = 12
         Me.GroupBox1.TabStop = False
-        Me.GroupBox1.Text = "Configuracion BD"
+        Me.GroupBox1.Text = "Configuración de base de datos"
         '
         'Label5
         '
